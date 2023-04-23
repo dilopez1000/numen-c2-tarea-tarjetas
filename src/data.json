@@ -1,0 +1,29 @@
+{
+  "cards": [
+    {
+      "id": 1,
+      "title": "Tarjeta 1",
+      "description": "Esta es la descripción de la tarjeta 1.",
+      "image": "https://picsum.photos/200"
+    },
+    {
+      "id": 2,
+      "title": "Tarjeta 2",
+      "description": "Esta es la descripción de la tarjeta 2.",
+      "image": "https://picsum.photos/200"
+    },
+    {
+      "id": 3,
+      "title": "Tarjeta 3",
+      "description": "Esta es la descripción de la tarjeta 3.",
+      "image": "https://picsum.photos/200"
+    }
+    ,
+    {
+      "id": 4,
+      "title": "Tarjeta 4",
+      "description": "Esta es la descripción de la tarjeta 3.",
+      "image": "https://picsum.photos/200"
+    }
+  ]
+}

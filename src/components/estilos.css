@@ -1,0 +1,41 @@
+.tarjeta {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Righteous', sans-serif;
+    width: 350px;
+    height: 360px;
+    margin: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s ease-in-out;
+  }
+
+  
+  .tarjeta:hover {
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.2);
+  }
+  
+  .tarjeta-imagen {
+    width: 80%;
+    height: 200px;
+    object-fit: cover;
+  }
+  
+  .tarjeta-titulo {
+    font-size: 30px;
+    font-weight: bolder;
+  }
+  
+  .tarjeta-descripcion {
+    font-size: 20px;
+    color: #666;
+  }
+
+  .tarjeta-lista {
+    display: flex;    
+    justify-content: center; 
+    flex-wrap: wrap;
+  }
